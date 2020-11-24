@@ -1,0 +1,42 @@
+html {
+  background-color: #f8f9fa;
+}
+
+body > div {
+  min-height: 100vh !important;
+}
+
+.success,
+.error {
+  color: white;
+  padding: 5px;
+  margin: 5px 0 15px 0;
+}
+
+.success {
+  background-color: springgreen;
+}
+
+.success {
+  background-color: tomato;
+}
+
+footer {
+  text-align: center;
+  padding: 2rem 0 !important;
+  line-height: 2;
+}
+
+footer p {
+  margin: 0;
+}
+
+footer a {
+  text-decoration: none;
+  color: #333;
+}
+
+footer a:hover {
+  text-decoration: none;
+  color: #333;
+}
