@@ -1,7 +1,5 @@
 # Book List
 
-JavaScript OOP Project
-
 - Book List is a object oriented programming based mini-project using JavaScript
 - Visit - [Book List]()
 
