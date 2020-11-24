@@ -14,10 +14,10 @@ body > div {
 }
 
 .success {
-  background-color: springgreen;
+  background-color: teal;
 }
 
-.success {
+.error {
   background-color: tomato;
 }
 
