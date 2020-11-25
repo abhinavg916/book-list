@@ -8,7 +8,7 @@
 
 - HTML
 - Skeleton
-- JavaScript (Use of DOM Manupilation, Event Handling, OOPs & Local Storage)
+- JavaScript (Use of DOM Manipulation, Event Handling, OOPs & Local Storage)
 
 ---
 
